@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @NishaRaju0809
-- 🌱 I’m currently learning React Native 
-- skilled in React native , javaScript ,MySQL, Figma
+👋 Hi, I'm Nisha! Experienced in React Native 📱, Firebase 🔥, Figma 🎨, REST APIs integration 🌐, Mixpanel 📊, and state management tools. Let's build something amazing together! 🚀
 - 📫 How to reach me nisharaju961@gmail.com via email
 
 <!---
