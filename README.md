@@ -1,7 +1,9 @@
+## About Me
 👋 Hi, I'm Nisha! Experienced in React Native 📱, Firebase 🔥, Figma 🎨, REST APIs integration 🌐, Mixpanel 📊, and state management tools. Let's build something amazing together! 🚀
 - 📫 How to reach me nisharaju961@gmail.com via email
 
-- My github stats
+
+## Github Stats
  <img width="456" alt="Screenshot 2024-09-18 at 2 31 03 PM" src="https://github.com/user-attachments/assets/2138c738-9fdd-498f-842b-33f883e9bb27">
 
 <!---
