@@ -4,7 +4,7 @@
 
 
 ## Github Stats
- <img width="456" alt="Screenshot 2024-09-18 at 2 31 03 PM" src="https://github.com/user-attachments/assets/2138c738-9fdd-498f-842b-33f883e9bb27">
+ <img width="456" alt="Screenshot 2024-09-18 at 2 31 03 PM" src="[[https://github.com/user-attachments/assets/2138c738-9fdd-498f-842b-33f883e9bb27](https://github-readme-stats.vercel.app/api?username=nisharaju0809)](https://github-readme-stats.vercel.app/api?username=nisharaju0809)">
 
 <!---
 NishaRaju0809/NishaRaju0809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
